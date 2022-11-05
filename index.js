@@ -1,0 +1,1 @@
+document.write("Halo halo co tu jest")
