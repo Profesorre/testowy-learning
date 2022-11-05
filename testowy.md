@@ -1,0 +1,1 @@
+ciekawe co to jest ten plik md ja nie wiem co to ale próbuje pisac na tej klawiaturze
